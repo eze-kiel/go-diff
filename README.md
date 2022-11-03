@@ -2,4 +2,4 @@
 
 A Go package that generates (colorful) diff between files.
 
-## ## [Find me on Codeberg.org](https://codeberg.org/h7c/go-diff)
+## [Find me on Codeberg.org](https://codeberg.org/h7c/go-diff)
